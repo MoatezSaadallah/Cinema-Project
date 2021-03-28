@@ -81,7 +81,7 @@ public class CinemaInitServiceImpl implements ICinemaInitService{
 
     @Override
     public void initSeances() {
-a
+
     }
 
     @Override
